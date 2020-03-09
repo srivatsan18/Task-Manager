@@ -1,6 +1,9 @@
 body, html {
-    margin: 0;
+    margin:0;
     font-family: sans-serif;
+    text-align: center;
+    font: 700;
+    background:"C:\\Users\\Srivatsan\Documents\\fl-intdroduction\\static\\css\\calendar.jpg";
 }
 
 .content {
@@ -9,7 +12,8 @@ body, html {
 }
 
 table, td, th {
-    border: 1px solid #aaa;
+    margin: 1px; ;
+    border: 3px solid #aaa;
 }
 
 table {
